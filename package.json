@@ -1,6 +1,9 @@
 {
   "name": "happy-cat-blog",
   "version": "0.0.0",
+  "engines": {
+  	"node": "4.3.2"
+  },
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
